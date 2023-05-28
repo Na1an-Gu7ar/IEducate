@@ -560,6 +560,11 @@ header {
     .swiper {
         width: 18rem;
     }
+    
+    .text-warning{
+        display: flex;
+        flex-direction: column;
+    }
 }
 
 /* Footer */
